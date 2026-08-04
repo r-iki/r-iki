@@ -125,13 +125,13 @@ Building useful technology for Indonesia 🇮🇩
 | 💌 Digital Invitation | Online Invitation Platform |
 | 🏠 Home Server | Self-hosted Services |
 
----
+<!-- ---
 
-# 📈 Contribution Graph
+ # 📈 Contribution Graph -->
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=r-iki&theme=tokyo-night&hide_border=true"/>
-</p>
+</p> -->
 
 ---
 

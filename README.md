@@ -104,23 +104,11 @@ Building useful technology for Indonesia 🇮🇩
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=r-iki&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-iki&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-iki&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=r-iki&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-</p>
-
----
 
 # 🔥 Featured Projects
 

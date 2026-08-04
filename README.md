@@ -1,3 +1,8 @@
+<p align="left">
+  <a href="https://github.com/r-iki">
+    <img src="https://komarev.com/ghpvc/?username=r-iki&label=Profile%20Views&color=0e75b6&style=flat" alt="r-iki" />
+  </a>
+</p>
 <h1 align="center">
 Hi 👋 I'm Riki Muhammad
 </h1>
